@@ -1,0 +1,22 @@
+#footer {
+    display: inline-block;
+    border: 8pt dashed black;
+    min-width: 1cm;
+    text-align: center;
+    margin: 3mm;
+}
+
+table thead {
+    background-color: lime;
+}
+
+#main {
+    display: block;
+    position: center;
+    text-align: center;
+    left: 1cm;
+    right: 0cm;
+    top: 1.5cm;
+    bottom: 0cm;
+    overflow: scroll;
+}
